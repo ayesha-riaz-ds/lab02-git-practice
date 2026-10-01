@@ -1,2 +1,1 @@
-Hello
-Welcome to Git practice
+Hello from feature-conflict branch
